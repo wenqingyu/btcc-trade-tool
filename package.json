@@ -1,0 +1,26 @@
+{
+  "name": "btcc-trade-tool",
+  "version": "1.0.0",
+  "description": "BTCC Trading tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenqingyu/btcc-trade-tool.git"
+  },
+  "author": "Wenqing Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenqingyu/btcc-trade-tool/issues"
+  },
+  "homepage": "https://github.com/wenqingyu/btcc-trade-tool#readme",
+  "dependencies": {
+    "async": "^1.5.2",
+    "async-each": "^1.0.0",
+    "btcchina": "0.0.2",
+    "sleep-async": "^1.0.1",
+    "waitfor": "^0.1.3"
+  }
+}
